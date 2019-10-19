@@ -1,0 +1,5 @@
+deepsat-sat4
+*.ipynb
+*.csv
+*.names
+*.pth
